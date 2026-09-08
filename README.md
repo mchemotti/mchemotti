@@ -1,8 +1,8 @@
 ## Hi there 👋! I'm Marissa.
 
-🎯 *On mission to:* improve access to and quality of care and resources for children, families, students...people! Using data/computational methods.
-🎓 Recently expanded interdisciplinary studies in data science, analytics, statistics, and machine learning, with a focus on people data @ M.S. at UC San Diego.
-🛠️ R, Python, SQL, REDCap, SPSS, Excel, Tableau
+- 🎯 *On mission to:* improve access to and quality of care and resources for children, families, students...people! Using data/computational methods.
+- 🎓 *Recent news:* completed interdisciplinary studies in data science, analytics, statistics, and machine learning, with a focus on people data @ Master of Science at UC San Diego.
+- 🛠️ *I build and explore using:* R, Python, SQL, REDCap, SPSS, Excel, Tableau.
 
 
 <!--
