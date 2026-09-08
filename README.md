@@ -2,7 +2,7 @@
 ### Computational Social Scientist, Researcher, Data Analyst
 
 - 🎯 **On mission to:** improve access to and quality of care and resources for children, families, students...people! Using data and computational methods.
-- 🎓 **Recent news:** I recently completed my M.S. in interdisciplinary studies @ UC San Diego in Data Science, Analytics, Statistics, and Machine Learning: [Master of Science in Computational Social Science](https://css.ucsd.edu/ "What is CSS?") with a focus on initiatives that impact people.
+- 🎓 **Recent news:** I recently completed my M.S. @ UC San Diego, studying Data Science, Analytics, Statistics, and Machine Learning: [Master of Science in Computational Social Science](https://css.ucsd.edu/ "What is CSS?") with an interdisciplinary focus on initiatives that impact people.
 - 🛠️ **I build and explore using:**  R, Python, SQL, REDCap, SPSS, Excel, Tableau.
 
 
