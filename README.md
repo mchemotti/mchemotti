@@ -1,7 +1,7 @@
 ## Hi, hello 👋! I'm Marissa.
 ### Computational Social Scientist, Researcher, Data Analyst
 
-> 🎯 **On mission to:** improve access to and quality of care and resources for children, families, students...people!
+> 🎯 **On mission to:** improve access to and quality of care and resources for children, families, students, workers...people!
 > Using data science and analytics to improve disability, psychology, education, healthcare, and community-based services.
  
 - 🎓 **Recent news:** I recently completed my M.S. @ UC San Diego, studying Data Science, Analytics, Statistics, and Machine Learning: *Master of Science in Computational Social Science* with an interdisciplinary focus on initiatives that impact people.
