@@ -1,5 +1,10 @@
 ## Hi there 👋! I'm Marissa.
 
+🎯 *On mission to:* improve access to and quality of care and resources for children, families, students...people! Using data/computational methods.
+🎓 Recently expanded interdisciplinary studies in data science, analytics, statistics, and machine learning, with a focus on people data @ M.S. at UC San Diego.
+🛠️ R, Python, SQL, REDCap, SPSS, Excel, Tableau
+
+
 <!--
 **mchemotti/mchemotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
