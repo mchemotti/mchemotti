@@ -1,7 +1,7 @@
 ## Hi, hello 👋! I'm Marissa.
 
 - 🎯 **On mission to:** improve access to and quality of care and resources for children, families, students...people! Using data and computational methods.
-- 🎓 **Recent news:** I recently completed my M.S. in interdisciplinary studies in data science, analytics, statistics, and machine learning: [Master of Science in Computational Social Science](https://css.ucsd.edu/ "What is CSS?"), with a focus on initiatives that impact people @ UC San Diego.
+- 🎓 **Recent news:** I recently completed my M.S. in interdisciplinary studies @ UC San Diego in Data Science, Analytics, Statistics, and Machine Learning: [Master of Science in Computational Social Science](https://css.ucsd.edu/ "What is CSS?") with a focus on initiatives that impact people.
 - 🛠️ **I build and explore using:**  R, Python, SQL, REDCap, SPSS, Excel, Tableau.
 
 
