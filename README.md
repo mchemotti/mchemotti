@@ -7,7 +7,7 @@
   
 - 🛠️ **I build and explore using:**  R, Python, SQL, REDCap, SPSS, Excel, Tableau.
 
-- 💬 **Let's connect!** [Website](https://mchemotti.github.io/) | [LinkedIn](https://www.linkedin.com/in/marissa-chemotti/)
+- 💬 **Let's connect!** [Personal Website](https://mchemotti.github.io/) | [LinkedIn](https://www.linkedin.com/in/marissa-chemotti/)
 
 
 <!--
